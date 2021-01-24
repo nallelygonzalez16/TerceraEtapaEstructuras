@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(435,42): warning C4838: conversion from 'Uint32' to 'int' requires a narrowing conversion
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(438,39): warning C4838: conversion from 'Uint32' to 'int' requires a narrowing conversion
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(441,39): warning C4838: conversion from 'Uint32' to 'int' requires a narrowing conversion
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(444,44): warning C4838: conversion from 'Uint32' to 'int' requires a narrowing conversion
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(986,10): warning C4101: 'colision': unreferenced local variable
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1007,10): warning C4101: 'colision': unreferenced local variable
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1028,10): warning C4101: 'colision': unreferenced local variable
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1049,10): warning C4101: 'colision': unreferenced local variable
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1076,47): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1083,51): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1099,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1098,13): warning C4101: 'arisaux': unreferenced local variable
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1216,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1216,12): message : consider using '%lld' in the format string
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1216,12): message : consider using '%I64d' in the format string
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1583,33): warning C4838: conversion from 'Uint32' to 'int' requires a narrowing conversion
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1586,36): warning C4838: conversion from 'Uint32' to 'int' requires a narrowing conversion
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(1589,41): warning C4838: conversion from 'Uint32' to 'int' requires a narrowing conversion
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(2094): warning C4715: 'guardarPartida': not all control paths return a value
+C:\Users\josuc\source\repos\TerceraEtapaEstructuras\ProyectoJuego\Source.cpp(230): warning C4715: 'Grafo::agregarArista': not all control paths return a value
+  MagoMovimiento.vcxproj -> C:\Users\josuc\Source\Repos\TerceraEtapaEstructuras\ProyectoJuego\Debug\MagoMovimiento.exe
