@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(431,42): warning C4838: la conversión de 'Uint32' en 'int' requiere una conversión de restricción
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(434,39): warning C4838: la conversión de 'Uint32' en 'int' requiere una conversión de restricción
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(437,39): warning C4838: la conversión de 'Uint32' en 'int' requiere una conversión de restricción
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(440,44): warning C4838: la conversión de 'Uint32' en 'int' requiere una conversión de restricción
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(949,10): warning C4101: 'colision': variable local sin referencia
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(970,10): warning C4101: 'colision': variable local sin referencia
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(991,10): warning C4101: 'colision': variable local sin referencia
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(1012,10): warning C4101: 'colision': variable local sin referencia
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(1039,47): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(1046,51): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(1062,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(1061,13): warning C4101: 'arisaux': variable local sin referencia
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(1542,33): warning C4838: la conversión de 'Uint32' en 'int' requiere una conversión de restricción
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(1545,36): warning C4838: la conversión de 'Uint32' en 'int' requiere una conversión de restricción
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(1548,41): warning C4838: la conversión de 'Uint32' en 'int' requiere una conversión de restricción
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(2053): warning C4715: 'guardarPartida': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Source.cpp(226): warning C4715: 'Grafo::agregarArista': no todas las rutas de acceso de control devuelven un valor
+  MagoMovimiento.vcxproj -> C:\Users\Usuario\source\repos\PLeon08\ProyectoED\ProyectoJuego\Debug\MagoMovimiento.exe
